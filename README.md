@@ -70,10 +70,13 @@ SQL (Structured Query Language): Linguagem padrão para gerenciar bancos de dado
 Copie e cole estes prompts no NotebookLM sempre que precisar revisar ou aprofundar seu estudo:
 
 Para explicar um trecho complexo:
+
 "Com base no livro [Nome da Fonte], explique detalhadamente como funciona a arquitetura de [Conceito, ex: concorrência em Go / Injeção de Dependência em C#] para alguém que está aprendendo backend agora. Use uma analogia simples do dia a dia."
 
 Para criar um quiz de revisão:
+
 "Com base nas fontes sobre Banco de Dados e APIs, crie um quiz de 5 perguntas de múltipla escolha para testar meu conhecimento sobre a diferença entre SQL e NoSQL e os métodos HTTP em APIs REST. Forneça o gabarito comentado no final."
 
 Para debugar conceitos cruzados:
+
 "Compare como C# (usando Tasks) e Go (usando Goroutines) lidam com requisições concorrentes de forma assíncrona, citando trechos das fontes fornecidas."
